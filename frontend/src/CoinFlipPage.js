@@ -1,6 +1,10 @@
 import React from 'react';
+import { ethers } from 'ethers';
 
 function CoinFlipPage() {
+
+    
+
     return (
         <div>
             <h1>Coin Flip</h1>
