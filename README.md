@@ -1,6 +1,6 @@
 ﻿# coinflip
 
-This project simulates the results of a coin flip utilizing psuedo-randomness.
+This project simulates the results of a coin flip utilizing psuedo-randomness, and the Ethereum blockchain Sepolia test network.
 
 ![Screenshot of Coin Flip](https://raw.githubusercontent.com/sawyersieja/coinflip/main/Coin_Flip.PNG)
 
