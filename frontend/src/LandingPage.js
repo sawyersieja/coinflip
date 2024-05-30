@@ -41,8 +41,10 @@ function LandingPage() {
 
     return (
         <div>
-            <h1>Welcome to the Coin Flip dApp</h1>
-            <Button onClick={connectWallet}>Connect MetaMask Wallet</Button>
+            <center>
+                <h1>Welcome to the Coin Flip dApp</h1>
+                <Button variant="contained" onClick={connectWallet}>Connect MetaMask Wallet</Button>
+            </center>
         </div>
     );
 }
